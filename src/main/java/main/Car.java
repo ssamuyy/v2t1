@@ -6,8 +6,8 @@ public class Car {
     private int nopeus;
 
     public Car() {
-        this.merkki = "OletusMerkki";
-        this.malli = "OletusMalli";
+        this.merkki = " ";
+        this.malli = " ";
         this.nopeus = 0;
     }
 
